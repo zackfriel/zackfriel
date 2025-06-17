@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Zack Friel 👋
+
+**Senior Front End Developer**  
+Passionate about building performant, engaging web applications with a keen eye for design and UI/UX excellence.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m a Senior Front End Developer with deep expertise in **React**, **Next.js**, **JavaScript**, and **CSS**.
+- 🎨 I apply modern UI/UX techniques and have a keen eye for design, crafting interfaces that are both beautiful and user-friendly.
+- 🌱 Always exploring new UI patterns and performance optimizations.
+- 🧗 When I’m not coding, you’ll find me bouldering or hiking.
+
+---
+
+## 🚀 Featured Projects
+
+- [ie.sportsdirect.com](https://ie.sportsdirect.com/)  
+  <sub>Modern e-commerce experience for Sports Direct Ireland.</sub>
+
+- [zack-gpt.vercel.app](https://zack-gpt.vercel.app/)  
+  <sub>Personal conversational AI project powered by cutting-edge front-end technologies.</sub>
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks:** React, Next.js, Vue.js
+- **Styling:** CSS, Tailwind CSS, Sass, PostCSS, Styled Components
+- **UI/UX:** Modern design principles, accessibility, engaging and intuitive UI
+- **Other:** Responsive Design, Web Performance, UI/UX Techniques
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/zackfriel/)
+
+---
 
 <!--
-**zackfriel/zackfriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Let’s build something amazing together!
 -->
