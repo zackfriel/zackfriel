@@ -1,4 +1,4 @@
-# Hi, I'm Zack Friel 👋 
+# Ayup! It's me, Zack 👋 
 I am a **Senior Front End Developer** based in **Sheffield, UK**
 
 Passionate about building performant, engaging web applications with a keen eye for design and UI/UX excellence.
