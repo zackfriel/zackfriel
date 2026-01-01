@@ -11,6 +11,7 @@ Passionate about building performant, engaging web applications with a keen eye 
 - 🎨 I apply modern UI/UX techniques and have a keen eye for design, crafting interfaces that are both beautiful and user-friendly.
 - 🌱 Always exploring new UI patterns and performance optimizations.
 - 🧗 When I’m not coding, you’ll find me bouldering or hiking.
+- 💡 Currently attempting to update my GitHub for each day of 2026
 
 ---
 
